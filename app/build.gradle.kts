@@ -9,7 +9,7 @@ android {
 
     defaultConfig {
         applicationId = "com.veyra.tv"
-        minSdk = 21
+        minSdk = 23
         targetSdk = 37
         versionCode = 1
         versionName = "0.1.0"
